@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-color: steelblue; */
+    background-image: url('background.jpg');
+}
+
+.header_text {
+    font-family: 'Nunito';
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.gif_container {
+    display: flex;
+    /* width: 5px; */
+    justify-content: center;
+    align-items: center;
+    margin: 10% 10%;
+    /* border: 2px solid orange; */
+}
+
+/* <a href="https://www.vecteezy.com/video/9740424-red-love-heart-element-particle-flowing-on-pink-background-romantic-cg-abstract-glitter-for-valentine-and-wedding">Red love heart element particle flowing on pink background. Romantic cg abstract glitter for valentine and wedding Stock Videos by Vecteezy</a> */
